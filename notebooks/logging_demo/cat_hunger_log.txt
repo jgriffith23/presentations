@@ -1,0 +1,10 @@
+2017-08-23 16:49:28,706 - Duchess is this hungry: 50
+2017-08-23 16:49:28,707 - Toulouse is this hungry: 50
+2017-08-23 16:49:28,708 - Berlioz is this hungry: 50
+2017-08-23 16:49:28,708 - Marie is this hungry: 50
+2017-08-23 16:49:28,709 - Thomas O'Malley is this hungry: 50
+2017-08-23 16:51:17,286 - Duchess is this hungry: 5
+2017-08-23 16:51:17,286 - Toulouse is this hungry: 50
+2017-08-23 16:51:17,287 - Berlioz is this hungry: -30
+2017-08-23 16:51:17,287 - Marie is this hungry: 50
+2017-08-23 16:51:17,288 - Thomas O'Malley is this hungry: -50
